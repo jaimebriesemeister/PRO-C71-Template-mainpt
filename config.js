@@ -1,7 +1,7 @@
 import firebase from "firebase";
 require("@firebase/firestore");
 
-//Paste your firebaseConfig here
+//Cole sua Configuração do Firebase aqui
 
 
 
